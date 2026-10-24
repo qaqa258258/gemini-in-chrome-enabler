@@ -173,5 +173,5 @@ chrome.exe --variations-override-country=us --enable-features=Glic,GlicMultiWind
 
 ---
 
-**作者**: [Kenny-BBDog](https://github.com/Kenny-BBDog)  
+**仓库**: https://github.com/qaqa258258/gemini-in-chrome-enabler  
 **最后更新**: 2026-10-25 (v7.1, 集成 safe-seed + 永久覆盖国家 + glic 开关 + 启动参数方案)
