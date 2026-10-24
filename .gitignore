@@ -1,0 +1,36 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+wheels/
+*.egg-info
+
+# PyInstaller temp files (keep releases/)
+dist/
+*.spec
+
+# Virtual environments
+.venv
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# GeminiEnabler
+.license
+
+# Xianyu versions (paid/encrypted)
+*xianyu*
+*Xianyu*
+*闲鱼*
+key_gen.py
+KeyGen*.html
+*_xianyu.py
